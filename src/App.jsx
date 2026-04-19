@@ -10,6 +10,7 @@ const PRESETS = {
   "Blue Filter": { r: 0.1, g: 0.2, b: 1.0, k: 1.4 },
   "Flat / Lomo": { r: 0.4, g: 0.4, b: 0.4, k: 0.9 },
   "High Contrast": { r: 0.299, g: 0.587, b: 0.114, k: 2.5 },
+  "E's Preset": { r: 0.30, g: 0.22, b: 0.11, k: 2.50 },
 };
 
 function quantize(v) {
